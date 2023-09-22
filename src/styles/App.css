@@ -1,1 +1,23 @@
+.App{
+    background-color: #73FF00;
+    padding: 20px;
+}
+.App p{
+    padding-block: 10px;
+}
+
+.child1{
+    background-color: #CE5F21;
+    padding: 5px;
+}
+.child1 h2{
+    padding-block: 20px;
+}
+.child2{
+    background-color: #F7CC00;
+    padding: 5px;
+}
+.child2 h2{
+    padding-block: 20px;
+}
 
